@@ -5,7 +5,9 @@ Prueba: **DESARROLLADOR DE INTEGRACIONES**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Rafael garcía cleland
+
+Nota: usé la versión de php 7.2 en caso de error con CURL la solución es habilitarlo en el php.ini
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##
